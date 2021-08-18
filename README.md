@@ -16,6 +16,6 @@
 - ⚡ Fun fact: ...
 
 ![burakoghreticii's github stats](https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&theme=radical)
-[![Burak Öğretici's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![burakoghreticii's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&theme=blue-green)](https://github.com/burakogreticii/github-readme-stats)
 
 
