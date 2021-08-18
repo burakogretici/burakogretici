@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/burakogreticii) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1988FF?style=flat-quare&labelColor=1988FF&logo=Linkedin&logoColor=white&link=link)](link)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]() 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-7DF0FF?style=flat-quare&labelColor=7DF0FF&logo=Twitter&logoColor=white&link=link)](link) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1FECFF?style=flat-quare&labelColor=1FECFF&logo=Twitter&logoColor=white&link=link)](link) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
