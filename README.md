@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**burakogreticii/burakogreticii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there,I'm Burak Öğretici 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![burakoghreticii's github stats](https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&layout=compact)](https://github.com/burakogreticii/github-readme-stats)
 
