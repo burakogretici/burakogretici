@@ -22,26 +22,23 @@ I have excellent design & coding skills, as well as an ability to convert requir
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
 |---|---|---|---|---|---|---|---|---|
 
-<div>
-### Github Stats
+<div >
+
+ ### Github Stats
 ![burakogreticii's github stats](https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&theme=merko)
 
  ### Top langs 
-[![burakoghreticii's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&theme=blue-green)](https://github.com/burakogreticii/github-readme-stats)
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+
 </div>
  
-### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakogreticii&repo=ReCapProject&show_owner=true)](https://github.com/burakogreticii/ReCapProject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakogreticii&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/burakogreticii/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@burakogretici-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+
 
 
 ⭐️ From [@burakogreticii](https://github.com/burakogreticii)
