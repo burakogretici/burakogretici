@@ -2,19 +2,12 @@
 ## Hi there 👋 I'm Burak Öğretici
 > I am studying Managament Information System at Bandırma 17 Eylül University.
 
-<img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="burakogreticii" />
 
-<div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
-</div>
 
 ### Programming Languages 🌐
 
-|[<img src="https://iconape.com/wp-content/files/rr/352323/svg/c-sharp-c-seeklogo.com.svg" alt="C#" width="24">]| [<img src="http://www.semihduran.com/wp-content/uploads/2014/12/asp_net.png" alt="asp.net" width="38">] | [<img src="![image](https://user-images.githubusercontent.com/74312392/130084490-b81d8fc9-7227-4bb0-9af6-6bc37224ce7e.png)" alt="PostgreSQL" width="24">]|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
+|<img src="https://iconape.com/wp-content/files/rr/352323/svg/c-sharp-c-seeklogo.com.svg" alt="C#" width="24">| [<img src="http://www.semihduran.com/wp-content/uploads/2014/12/asp_net.png" alt="asp.net" width="38">] | [<img src="![image](https://user-images.githubusercontent.com/74312392/130084490-b81d8fc9-7227-4bb0-9af6-6bc37224ce7e.png)" alt="PostgreSQL" width="24">]|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
  
 ### Tools 🛠️
