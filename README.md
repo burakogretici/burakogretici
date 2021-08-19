@@ -18,14 +18,14 @@
  
 
 ### Tools 🛠️
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40">|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" width="37">| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="mysql" alt="sqlserver" width="40">| <img src="https://media.ttmind.com/Media/tech/article_87_10-7-201810-20-54AM.jpg" alt="vscode" width="50"> | <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Ubuntu" width="40"> |  
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40">|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" width="37">| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="mysql" alt="sqlserver" width="40">| <img src="https://media.ttmind.com/Media/tech/article_87_10-7-201810-20-54AM.jpg" alt="vscode" width="50"> | <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Ubuntu" width="40"> |  
 |---|---|---|---|---|---|
 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 
-<a href="https://www.linkedin.com/in/burakogreticii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a><a href="https://www.instagram.com/burakogreticii/?hl=tr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a><a href="mailto:burakogreticii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-burakogreticii@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/burakogreticii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak Öğretici-blue?style=flat-square&logo=linkedin">  </a><a href="https://www.instagram.com/burakogreticii/?hl=tr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> <a href="mailto:burakogreticii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-burakogreticii@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii)  
