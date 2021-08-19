@@ -28,7 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakogreticii&repo=PackageTemplate&show_owner=true)](https://github.com/burakogreticii/ReCapProject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakogreticii&repo=ReCapProject&show_owner=true)](https://github.com/burakogreticii/ReCapProject)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakogreticii&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
