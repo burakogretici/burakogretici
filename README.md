@@ -5,8 +5,10 @@
 <img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="burakogreticii" />
 
 
-![burakogreticii's github stats](https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&theme=merko)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+<a href="https://github.com/burakogreticii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
+<a href="https://github.com/burakogreticii"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
+
+
 
 
 ### Programming Languages 🌐
