@@ -25,5 +25,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%burakogreticii.burakogreticii%2Freadme)
+<p align="center"><img src="https://profile-counter.glitch.me/{burakogreticii}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
