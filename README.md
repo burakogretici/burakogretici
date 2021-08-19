@@ -27,8 +27,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
  ### Github Stats
 ![burakogreticii's github stats](https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&theme=merko)
 
- ### Top langs 
-<h4 align="center">Top langs :tongue:</h4>
+<h4>Top langs :tongue:</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 
 
