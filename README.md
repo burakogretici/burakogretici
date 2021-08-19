@@ -1,4 +1,4 @@
-## Hi there,I'm Burak Öğretici 👋
+## <h2 align="center"> Hi there,I'm Burak Öğretici 👋</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/burakogreticii) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1988FF?style=flat-quare&labelColor=1988FF&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/burakogreticii/)
