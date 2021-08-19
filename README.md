@@ -23,5 +23,7 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-[![Linkedin Badge](https://img.shields.io/badge/keremvaris-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)] (https://www.linkedin.com/in/burakogretici/)
-[![Instagram Badge](https://img.shields.io/badge/keremvaris-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)] (https://www.instagram.com/burakogreticii/?hl=tr)
+
+
+
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkeremvaris.keremvaris%2Freadme)
