@@ -22,11 +22,9 @@
 |---|---|---|---|---|---|
 
 
- 
-
-
 <h3> 🤝🏻 Connect with Me </h3>
-
+[![Linkedin Badge](https://img.shields.io/badge/burakogretici-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/burakogreticii/)
+[![Instagram Badge](https://img.shields.io/badge/burakogretici-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram(https://www.instagram.com/burakogreticii/?hl=tr)
 
 
 
