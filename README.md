@@ -40,4 +40,4 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 
 
-⭐️ From [@burakogreticii](https://github.com/anandmainali)
+⭐️ From [@burakogreticii](https://github.com/burakogreticii)
