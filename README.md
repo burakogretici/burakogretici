@@ -29,7 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
  ### Top langs 
 <h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 
 
 </div>
