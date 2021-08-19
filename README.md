@@ -45,5 +45,4 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii)  
