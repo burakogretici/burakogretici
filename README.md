@@ -25,7 +25,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 
-<a href="https://www.linkedin.com/in/burakogreticii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak Öğretici-blue?style=flat-square&logo=linkedin">         </a><a href="https://www.instagram.com/burakogreticii/?hl=tr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-burakogreticii-black?style=flat-square&logo=instagram"></a>         [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](burakogreticii@gmail.com)
+<a href="https://www.linkedin.com/in/burakogreticii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak Öğretici-blue?style=flat-square&logo=linkedin">         </a><a href="https://www.instagram.com/burakogreticii/?hl=tr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-burakogreticii-black?style=flat-square&logo=instagram"></a>         [![](https://img.shields.io/badge/Gmail-burakogreticii0gmail.com-red)](burakogreticii@gmail.com)
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii)  
