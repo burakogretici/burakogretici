@@ -2,11 +2,11 @@
 ## Hi there 👋 I'm Burak Öğretici
 > I am studying Managament Information System at Bandırma 17 Eylül University.
 
-<img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="burakogreticii" />
+<img src="https://komarev.com/ghpvc/?username=burakogretici" alt="burakogretici" />
 
 <div className="stats">
-<a href="https://github.com/burakogreticii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakogreticii&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
-<a href="https://github.com/burakogreticii"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogreticii&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakogretici&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
+<a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogretici&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 </div>
 
 
@@ -27,4 +27,4 @@
 <a href="https://www.linkedin.com/in/burakogreticii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak Öğretici-blue?style=flat-square&logo=linkedin">         </a><a href="https://www.instagram.com/burakogreticii/?hl=tr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-burakogreticii-black?style=flat-square&logo=instagram"></a>         [![](https://img.shields.io/badge/Gmail-burakogreticii0gmail.com-red)](burakogreticii@gmail.com)
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii) 
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogretici.burakogretici) 
