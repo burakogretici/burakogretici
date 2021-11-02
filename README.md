@@ -1,6 +1,7 @@
 
 ## Hi there 👋 I'm Burak Öğretici
 > I am studying Managament Information System at Bandırma 17 Eylül University.
+> <br/>
 
 <img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="burakogretici" />
 
