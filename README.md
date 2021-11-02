@@ -8,9 +8,6 @@
 <a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakogretici&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
 <a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogretici&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 </div>
-
-.stats {
-text-align:left;
 }
 
 ### Programming Languages 🌐
