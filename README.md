@@ -28,4 +28,6 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii) 
 
-
+div{
+margin-left:2px;
+}
