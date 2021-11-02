@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="burakogretici" />
 
-<div align='left' className="stats" >
+<div margin-left=2px; className="stats" >
 <a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakogretici&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
 <a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakogretici&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 </div>
@@ -28,6 +28,3 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=burakogreticii.burakogreticii) 
 
-div{
-margin-left:2px;
-}
