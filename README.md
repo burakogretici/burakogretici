@@ -3,7 +3,7 @@
 > I am studying Managament Information System at Bandırma 17 Eylül University.
 > <br/>
 
-<img src="https://komarev.com/ghpvc/?username=burakogreticii" alt="burakogretici" />
+<img src="https://komarev.com/ghpvc/?username=burakogretici" alt="burakogretici" />
 
 <div align='rigth'>
 <a href="https://github.com/burakogretici"><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakogretici&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
