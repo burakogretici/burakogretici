@@ -25,5 +25,5 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_ÖĞRETİCİ-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/burakogretici)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Öğretici-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/burakogretici)
 [![Gmail](https://img.shields.io/badge/Gmail-burakogreticii@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:burakogreticii@gmail.com)
